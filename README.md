@@ -29,8 +29,12 @@ This project focuses on clarity, signal quality, and systematic selection rather
 
   ## 🖥 Dashboard Preview
 
-    ### 🔹 FnO Universe
+### 🔹 FnO Universe
 ![FnO Universe](Screenshots/FnO_Universe.png)
+
+
+### In-built Trading View chart
+![Trading View Chart](Screenshots/TV_chart.png)
 
 🔹 Stage 2 – Structural Classification
 
